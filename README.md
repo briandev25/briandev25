@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [improving my current personal website](https://my-second-website.vercel.app/)
+- 🔭 I’m currently working on [improving my current personal website](https://bryankiprop.vercel.app/)
 
 - 🌱 I’m currently learning **Typescript**
 
